@@ -1,3 +1,20 @@
-This is a placeholer readme. The goal is that this repository will contain all
-public meeting minutes and public voting logs, as well as public process of the
-NixOS steering committee.
+Steering Committee Public Archive
+====================================
+
+This repository contains all the material produced by the Steering Committee that is released pubicly at the destination of the NixOS community.
+
+# Meeting Minutes
+
+- [2025-11-05](./minutes/2025-11-05.md) 
+
+
+# Majority agreed rules 
+
+The Steering Committee has reached majority agreement to follow the following set of rules:
+
+- [Asynchronous voting process](./docs/process/async-voting.md)
+
+
+# Vote logs
+
+As per the process rule on [asynchronous voting](./docs/process/async-voting.md), the Steering Committee releases [an exhaustive log of its non-confidential votes](./vote-logs/2025-2026.md).
