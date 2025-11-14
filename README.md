@@ -3,6 +3,8 @@ Steering Committee Public Archive
 
 This repository contains all the material produced by the Steering Committee that is released publicly at the destination of the NixOS community.
 
+Refer to the [Steering Committee page](https://nixos.org/community/teams/steering-committee/) for general information, list of members and contact details.
+
 # Meeting Minutes
 
 - [2025-11-05](./minutes/2025-11-05.md) 
