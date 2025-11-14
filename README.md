@@ -1,7 +1,7 @@
 Steering Committee Public Archive
 ====================================
 
-This repository contains all the material produced by the Steering Committee that is released pubicly at the destination of the NixOS community.
+This repository contains all the material produced by the Steering Committee that is released publicly at the destination of the NixOS community.
 
 # Meeting Minutes
 
