@@ -7,6 +7,7 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 
 # Meeting Minutes
 
+- [2025-11-13](./minutes/2025-11-13.md) 
 - [2025-11-05](./minutes/2025-11-05.md) 
 
 
