@@ -7,10 +7,7 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 
 # Meeting Minutes
 
-- [2025-12-04](./minutes/2025-12-04.md) 
-- [2025-11-13](./minutes/2025-11-13.md) 
-- [2025-11-05](./minutes/2025-11-05.md) 
-
+See [`minutes` directory](https://github.com/NixOS/steering-committee/tree/main/minutes)
 
 # Majority agreed rules 
 
