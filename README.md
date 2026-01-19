@@ -22,4 +22,4 @@ The Steering Committee has reached majority agreement to follow the following se
 
 # Vote logs
 
-As per the process rule on [asynchronous voting](./docs/process/async-voting.md), the Steering Committee releases [an exhaustive log of its non-confidential votes](./vote-logs/2025-2026.md).
+As per the process rule on [asynchronous voting](./docs/process/async-voting.md), the Steering Committee releases [an exhaustive log of its non-confidential votes](./vote-logs/).
