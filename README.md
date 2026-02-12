@@ -30,6 +30,9 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [Vote #10: Delist Helsing hiring posts](./vote-logs/0010-delist-helsing-hiring-post.md)
+- [Vote #9: Inaugurate Hydra team](./vote-logs/0009-inaugurate-hydra-team.md)
+- [Vote #8: Release statement on rebuilding moderation team](./vote-logs/0008-bootstrap-moderation-statement.md)
 - [Vote #7: Split vote log into individual files](./vote-logs/0007-split-the-vote-logs-into-files.md)
 - [Vote #6: Async votes rules to include end of vote datetime](./vote-logs/0006-async-votes-datetime.md)
 - [Vote #5: A first sketch of a full moderation team](./vote-logs/0005-full-moderation-team.md)
