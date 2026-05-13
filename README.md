@@ -8,6 +8,11 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 # Meeting Minutes
 
 <!-- BEGIN MINUTES -->
+- [2026-04-29](./minutes/2026-04-29.md)
+- [2026-03-25](./minutes/2026-03-25.md)
+- [2026-03-18](./minutes/2026-03-18.md)
+- [2026-03-11](./minutes/2026-03-11.md)
+- [2026-03-04](./minutes/2026-03-04.md)
 - [2026-01-07](./minutes/2026-01-07.md)
 - [2025-12-31](./minutes/2025-12-31.md)
 - [2025-12-10](./minutes/2025-12-10.md)
@@ -30,6 +35,9 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [Vote #13: Approve NixCon 2026 Sponsorships](./vote-logs/0013-nixcon20206-sponsorship-1.md)
+- [Vote #12: Approve direction of grant program and initiative funding proposal](./vote-logs/0012-grant-program-direction.md)
+- [Vote #11: Meeting note SLA](./vote-logs/0011-meeting-note-sla.md)
 - [Vote #10: Delist Helsing hiring posts](./vote-logs/0010-delist-helsing-hiring-post.md)
 - [Vote #9: Inaugurate Hydra team](./vote-logs/0009-inaugurate-hydra-team.md)
 - [Vote #8: Release statement on rebuilding moderation team](./vote-logs/0008-bootstrap-moderation-statement.md)
