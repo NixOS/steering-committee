@@ -9,6 +9,7 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 
 <!-- BEGIN MINUTES -->
 - [2026-04-29](./minutes/2026-04-29.md)
+- [2026-04-08](./minutes/2026-04-08.md)
 - [2026-03-25](./minutes/2026-03-25.md)
 - [2026-03-18](./minutes/2026-03-18.md)
 - [2026-03-11](./minutes/2026-03-11.md)
@@ -35,6 +36,8 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [Vote #15: Foundation as fiscal host for Meta's Taco Sprint contribution](./vote-logs/0015-meta-taco-sprint-fiscal-host.md)
+- [Vote #14: Approve remaining EU Horizon consortium partners](./vote-logs/0014-eu-horizon-partners.md)
 - [Vote #13: Approve NixCon 2026 Sponsorships](./vote-logs/0013-nixcon20206-sponsorship-1.md)
 - [Vote #12: Approve direction of grant program and initiative funding proposal](./vote-logs/0012-grant-program-direction.md)
 - [Vote #11: Meeting note SLA](./vote-logs/0011-meeting-note-sla.md)
