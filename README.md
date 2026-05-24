@@ -8,6 +8,7 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 # Meeting Minutes
 
 <!-- BEGIN MINUTES -->
+- [2026-04-29](./minutes/2026-05-13.md)
 - [2026-04-29](./minutes/2026-04-29.md)
 - [2026-04-22](./minutes/2026-04-22.md)
 - [2026-04-22](./minutes/2026-04-15.md)
