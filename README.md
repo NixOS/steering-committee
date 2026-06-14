@@ -39,6 +39,9 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [Vote #18: Home Manager as an official NixOS project](./vote-logs/0018-official-home-manager.md)
+- [0017: GitHub Org Owner Restructuring and Rotation Policy](./vote-logs/0017-github-org-owner-restructuring.md)
+- [0016: NixCon Sponsorship Tier Integrity Policy](./vote-logs/0016-sponsorship-tier-integrity.md)
 - [Vote #15: Foundation as fiscal host for Meta's Taco Sprint contribution](./vote-logs/0015-meta-taco-sprint-fiscal-host.md)
 - [Vote #14: Approve EU Horizon consortium partners](./vote-logs/0014-eu-horizon-partners.md)
 - [Vote #13: Approve NixCon 2026 Sponsorships](./vote-logs/0013-nixcon20206-sponsorship-1.md)
