@@ -39,6 +39,8 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [0020: Move nixpkgs-update to the NixOS org and fund its servers](./vote-logs/0020-nixpkgs-update-to-nixos-org.md)
+- [0019: Route External Contact Into Zulip](./vote-logs/0019-router-contact-into-zulip.md)
 - [Vote #18: Home Manager as an official NixOS project](./vote-logs/0018-official-home-manager.md)
 - [0017: GitHub Org Owner Restructuring and Rotation Policy](./vote-logs/0017-github-org-owner-restructuring.md)
 - [0016: NixCon Sponsorship Tier Integrity Policy](./vote-logs/0016-sponsorship-tier-integrity.md)
