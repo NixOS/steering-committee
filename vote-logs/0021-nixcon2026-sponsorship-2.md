@@ -5,7 +5,7 @@
 
 | Member | Vote | Rationale |
 |:--------|:-----:|:----------|
-| cafkafk  | ❌️ | This puts the trademark at risk, directly endorses an actor we all know is undermining the project and it's official resoureces, and makes no sense at all. I've aggrssively contested this internally, and I think it's completely indefensible and short sighted. My view is this vote was behind my back, as we'd agreed in our meeting about it to table it a week, yet thirty minutes later a coalitoion of 4 voters had decided to vote in favor. The most disappointing result of the entire steering committee so far and one I heavily denounce. |
+| cafkafk  | ❌️ | This puts the trademark at risk, directly endorses an actor we all know is undermining the project and its official resources, and makes no sense at all. I've aggressively contested this internally, and I think it's completely indefensible and short sighted. My view is this vote was behind my back, as we'd agreed in our meeting about it to table it a week, yet thirty minutes later a coalition of 4 voters had decided to vote in favor. The most disappointing result of the entire steering committee so far and one I heavily denounce. |
 | John  | ✅ | |
 | K900  | ❌️ | |
 | Luj  | ❌️ | |
