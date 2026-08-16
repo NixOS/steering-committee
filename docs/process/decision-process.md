@@ -246,7 +246,7 @@ stateDiagram-v2
    **The existence of a redaction item is always public.**
 5. Video recordings and verbatim transcripts are not required.
 
-### 8. (Lack of) participation
+### 9. (Lack of) participation
 
 1. **A written position counts exactly as much as attending.**
    Nobody is penalised for missing a call.
@@ -256,7 +256,7 @@ stateDiagram-v2
    They publish a short note saying whether they are continuing or stepping back.
 4. **This process cannot remove anyone.** Removal is a constitutional matter and lives outside a process rule the SC adopts by majority.
 
-### 9. Finality of decisions
+### 10. Finality of decisions
 
 1. A decision **stands for R months**.
    Within that period it is not re-litigated.
