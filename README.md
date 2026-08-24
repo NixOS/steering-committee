@@ -8,6 +8,9 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 # Meeting Minutes
 
 <!-- BEGIN MINUTES -->
+- [2026-08-12](./minutes/2026-08-12.md)
+- [2026-07-15](./minutes/2026-07-15.md)
+- [2026-06-24](./minutes/2026-06-24.md)
 - [2026-06-17](./minutes/2026-06-17.md)
 - [2026-05-20](./minutes/2026-05-20.md)
 - [2026-05-13](./minutes/2026-05-13.md)
@@ -41,6 +44,7 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [Vote 0021: Approve NixCon 2026 Sponsorships (2)](./vote-logs/0021-nixcon2026-sponsorship-2.md)
 - [0020: Move nixpkgs-update to the NixOS org and fund its servers](./vote-logs/0020-nixpkgs-update-to-nixos-org.md)
 - [0019: Route External Contact Into Zulip](./vote-logs/0019-router-contact-into-zulip.md)
 - [Vote #18: Home Manager as an official NixOS project](./vote-logs/0018-official-home-manager.md)
