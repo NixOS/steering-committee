@@ -1,4 +1,4 @@
-# 0023: Bootstrap Team Extension
+# 0024: Bootstrap Team Extension
 
 ## Context and Subject
 Previous approval (2026-03-04) for the Bootstrap Team was until August 15th.
