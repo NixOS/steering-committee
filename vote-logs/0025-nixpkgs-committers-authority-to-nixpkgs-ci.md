@@ -1,4 +1,4 @@
-# 0022: Offer nixpkgs-committers process authority to the Nixpkgs CI team
+# 0025: Offer nixpkgs-committers process authority to the Nixpkgs CI team
 
 ## Context and Subject
 The Nixpkgs core team, which had handled much of the day-to-day governance of Nixpkgs (security response, stewarding difficult PRs, technical stewardship, and the GitHub relationship for CI), has [disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413), and the Steering Committee is working to re-establish it. In the interim, the authority over the nixpkgs-committers process needs a home. Since CI and the commit bit are closely linked these days (merge rights for maintainers without the commit bit are also tied to CI), the SC grants this authority to the Nixpkgs CI team, contingent on their acceptance.
