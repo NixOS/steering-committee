@@ -44,9 +44,10 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [0025: Offer nixpkgs-committers process authority to the Nixpkgs CI team](./vote-logs/0025-nixpkgs-committers-authority-to-nixpkgs-ci.md)
 - [0024: Bootstrap Team Extension](./vote-logs/0024-bootstrap-team-extension.md)
-- [0023: Approve Commercial Page Additions](./vote-logs/0023-approve-commercial-page-additions.md)
-- [0022: Offer nixpkgs-committers process authority to the Nixpkgs CI team](./vote-logs/0022-nixpkgs-committers-authority-to-nixpkgs-ci.md)
+- [0023: Approve @tfc to attend as observer](./vote-logs/0023-approve-sc-observer.md)
+- [0022: Approve Commercial Page Additions](./vote-logs/0022-approve-commercial-page-additions.md)
 - [Vote 0021: Approve NixCon 2026 Sponsorships (2)](./vote-logs/0021-nixcon2026-sponsorship-2.md)
 - [0020: Move nixpkgs-update to the NixOS org and fund its servers](./vote-logs/0020-nixpkgs-update-to-nixos-org.md)
 - [0019: Route External Contact Into Zulip](./vote-logs/0019-router-contact-into-zulip.md)
