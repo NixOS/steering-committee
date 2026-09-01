@@ -52,3 +52,21 @@ Marketing asked Board for guidance who decided that the SC should approve the co
 * **In Favor (+1):** 0
 * **Opposed (-1):** 6
 * **Abstentions:** 1
+
+### Re-review
+Content was substantially updated and re-reviewed. (approved on Aug 28)
+
+| Committee Member | Vote | Rationale |
+| :--- | :---: | :--- |
+| **Luj** |  | |
+| **cafkafk** | `:+1` | The German register confirms that he now holds €25,000 in registered share capital in a German GmbH, which makes this a substantially more serious setup from my perspective |
+| **K900** | `:+1` | |
+| **Philip Taron** | | |
+| **Tom Bereknyei** | `:+1` | |
+| **Robert Hensing** | `:+1` | |
+| **John Ericson** | `:+1` |  |
+
+### Final Tally
+* **In Favor (+1):** 5
+* **Opposed (-1):** 0
+* **Abstentions:** 2
