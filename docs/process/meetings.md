@@ -53,6 +53,6 @@ Notes are generally taken in HedgeDoc in Markdown, and then submitted to [the in
 Approval and merging can be done async and, if not, shall be the first order of business in the next SC meeting.
 
 ## References
-[Full Robert's Rules](http://www.rulesonline.com/)
+[Full Robert's Rules](https://web.archive.org/web/20260327044358/http://www.rulesonline.com/)
 [ABC of Chairing](https://chair.guide/): A digital version of Citrine's ABC of Chairmanship, 1939.
 [Cheat Sheet](https://www.boardeffect.com/blog/roberts-rules-of-order-cheat-sheet/)
