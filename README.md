@@ -8,6 +8,8 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 # Meeting Minutes
 
 <!-- BEGIN MINUTES -->
+- [2026-08-26](./minutes/2026-08-26.md)
+- [2026-08-19](./minutes/2026-08-19.md)
 - [2026-08-12](./minutes/2026-08-12.md)
 - [2026-07-15](./minutes/2026-07-15.md)
 - [2026-06-24](./minutes/2026-06-24.md)
@@ -36,6 +38,7 @@ Refer to the [Steering Committee page](https://nixos.org/community/teams/steerin
 The Steering Committee has reached majority agreement to follow the following set of rules:
 
 - [Asynchronous voting process](./docs/process/async-voting.md)
+- [Meeting protocol](./docs/process/meetings.md)
 
 
 # Vote logs
@@ -44,6 +47,11 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [0030: Publish the meeting protocol](./vote-logs/0030-publish-meeting-protocol.md)
+- [0029: Ask the EC to add an LLM contribution ban referendum to the 2026 ballot](./vote-logs/0029-referendum-on-llm-contribution-ban.md)
+- [0028: Blanket ban on LLM-assisted contributions to Nixpkgs](./vote-logs/0028-blanket-llm-contribution-ban.md)
+- [0027: Appeal policy created by the Bootstrap team](./vote-logs/0027-moderation-appeal-policy.md)
+- [0026: Approve EC for 2026 Steering Committee election](./vote-logs/0026-EC-approval-2026.md)
 - [0025: Offer nixpkgs-committers process authority to the Nixpkgs CI team](./vote-logs/0025-nixpkgs-committers-authority-to-nixpkgs-ci.md)
 - [0024: Bootstrap Team Extension](./vote-logs/0024-bootstrap-team-extension.md)
 - [0023: Approve @tfc to attend as observer](./vote-logs/0023-approve-sc-observer.md)
