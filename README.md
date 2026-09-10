@@ -47,6 +47,7 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [0031: Interim delegation of job posting decisions to the moderation team](./vote-logs/0031-interim-job-posting-delegation.md)
 - [0030: Publish the meeting protocol](./vote-logs/0030-publish-meeting-protocol.md)
 - [0029: Ask the EC to add an LLM contribution ban referendum to the 2026 ballot](./vote-logs/0029-referendum-on-llm-contribution-ban.md)
 - [0028: Blanket ban on LLM-assisted contributions to Nixpkgs](./vote-logs/0028-blanket-llm-contribution-ban.md)
