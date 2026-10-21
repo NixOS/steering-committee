@@ -47,7 +47,8 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
-- [0032: Close NixOS/org#298](./vote-logs/0032-close-antitrust-proposal-pr.md)
+- [0033: Prohibit Board members from also serving on the SC](./vote-logs/0033-board-members-on-sc.md)
+- [0032: Close the antitrust proposal PR (NixOS/org#298)](./vote-logs/0032-close-antitrust-proposal-pr.md)
 - [0031: Interim delegation of job posting decisions to the moderation team](./vote-logs/0031-interim-job-posting-delegation.md)
 - [0030: Publish the meeting protocol](./vote-logs/0030-publish-meeting-protocol.md)
 - [0029: Ask the EC to add an LLM contribution ban referendum to the 2026 ballot](./vote-logs/0029-referendum-on-llm-contribution-ban.md)
