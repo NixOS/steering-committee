@@ -47,6 +47,7 @@ As per the process rule on [asynchronous voting](./docs/process/async-voting.md)
 
 
 <!-- BEGIN VOTE LOGS -->
+- [0035: Constitutional amendment: referendums](./vote-logs/0035-constitutional-amendment-referendums.md)
 - [0034: Limit the delay in publishing meeting minutes](./vote-logs/0034-limit-minutes-publishing-delay.md)
 - [0033: Prohibit Board members from also serving on the SC](./vote-logs/0033-board-members-on-sc.md)
 - [0032: Close the antitrust proposal PR (NixOS/org#298)](./vote-logs/0032-close-antitrust-proposal-pr.md)
