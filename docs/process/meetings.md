@@ -50,7 +50,10 @@ Taking good notes is not trivial and also impedes participation by the note-take
 Nevertheless, this is important for transparency and to have a record of the events.
 It is preferable to have an external note-taker - which can coincide well with having an SC observer. Otherwise the Chairperson or other volunteer will keep notes during the meeting.
 Notes are generally taken in HedgeDoc in Markdown, and then submitted to [the internal SC repository](https://github.com/NixOS/nix-steering-internal) in the `/minutes` folder as a PR for a review of accuracy.
-Approval and merging can be done async and, if not, shall be the first order of business in the next SC meeting.
+Minutes do not require approval, but instead are expected to be posted after a review period of 4 days.
+The chairperson is expected to post them on the 5th day.
+Anyone may publish the minutes after the review period.
+This was decided in [vote 34](../../vote-logs/0034-limit-minutes-publishing-delay.md).
 
 ## References
 [Full Robert's Rules](https://web.archive.org/web/20260327044358/http://www.rulesonline.com/)
