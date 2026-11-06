@@ -2,7 +2,9 @@
 
 Proposal:
 
-> The SC recognizes the decision of < rest of team > to remove Serge from the CUDA team
+> The SC recognizes the decision of < rest of team > to remove Serge from the CUDA team[^1]
+
+[^1]: This is the precise text voted on. The rest of the team is the other members of the [CUDA team](https://nixos.org/community/teams/cuda/): @connorbaker, @dhofer, @glepage, and @yoriksar.
 
 Voted on during SC + Board meeting on 2026-11-04.
 
